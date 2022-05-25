@@ -1,0 +1,7 @@
+data/io.galvad.gnome_project_c.desktop.in
+data/io.galvad.gnome_project_c.appdata.xml.in
+data/io.galvad.gnome_project_c.gschema.xml
+src/gnome_project_c-window.ui
+src/main.c
+src/gnome_project_c-window.c
+

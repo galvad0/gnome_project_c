@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/io/galvad/gnome_project_c">
+    <file>gnome_project_c-window.ui</file>
+    <file>gtk/help-overlay.ui</file>
+  </gresource>
+</gresources>

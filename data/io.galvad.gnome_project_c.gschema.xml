@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome_project_c">
+	<schema id="io.galvad.gnome_project_c" path="/io/galvad/gnome_project_c/">
+	</schema>
+</schemalist>
